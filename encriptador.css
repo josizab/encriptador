@@ -14,7 +14,8 @@ margin-left: 80px;}
 
 .text-area{
 	border: none;
-	margin-top: 90px;
+	font-size: 15px;
+	margin-top: 70px;
 	text-transform: lowercase;
 
 }
@@ -87,3 +88,4 @@ margin-top: 412px;
 	font-size: 12px;
 	padding-top: 40px;
 }
+
